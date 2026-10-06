@@ -90,8 +90,8 @@ QuickBreak/
 ### 1. Clone
 
 ```bash
-git clone https://github.com/Deep4755/quick_break.git
-cd quick_break
+git clone https://github.com/KodeByDeep/QuickBreak.git
+cd QuickBreak
 ```
 
 ### 2. Backend
