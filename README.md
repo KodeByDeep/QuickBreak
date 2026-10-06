@@ -170,4 +170,4 @@ See [DEPLOYMENT.md](./DEPLOYMENT.md) for full Render deployment instructions.
 
 ## 👤 Author
 
-**Sandeep** — [github.com/Deep4755](https://github.com/Deep4755)
+**Sandeep** — [github.com/KodeByDeep](https://github.com/KodeByDeep)
